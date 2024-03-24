@@ -1,0 +1,38 @@
+SocialFlix © 2024 by Daniel Almeida is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+TERMS AND CONDITIONS
+
+1. Definitions
+
+    a. This License refers to the terms and conditions for copy, distribution, and modification of the work.
+    b. The Licensor (also referred to as "we") is the individual or entity offering the work under the terms of this License.
+    c. The Original Author is the individual or entity who created the work.
+    d. The work is the content offered under the terms of this License.
+    e. The Adaptation is any work that is based upon the work, and in which the work may be recast, transformed, or adapted.
+    f. Distribute means to make available to the public the original and copies of the work or Adaptation.
+    g. The Licensee (you) is the individual or entity exercising rights under this License.
+    h. NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
+
+2. License Grant
+
+    a. Subject to the terms and conditions of this License, Licensor hereby grants you a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to use, reproduce, adapt, distribute, perform, and display the work, as long as such use is for NonCommercial purposes only.
+    b. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+    c. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+3. Restrictions
+
+    a. You may not use the material for commercial purposes.
+    b. If you distribute the work or any Adaptations or Derivatives thereof, you must do so under the same license as the original work.
+    c. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+4. Termination
+
+    a. If you fail to comply with the terms of this License, your rights under this License will terminate automatically.
+
+5. Disclaimer
+
+    a. This work is provided "as is" and without any warranty of any kind, either express or implied, including, without limitation, warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+For the full terms and conditions, please visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
